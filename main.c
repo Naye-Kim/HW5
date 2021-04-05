@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	printf("test1 branch");
+	printf("test2 branch");
 	return 0;
 }
 
